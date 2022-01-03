@@ -1,0 +1,20 @@
+
+0
+java:S1220""Move this file to a named package.
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¾íÉúÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‹á‹¾ıÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‹á‹¾ıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÎˆÅ”
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾íÉúÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(‡¾ÿÛıÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹á‹¾ıÿÿÿÿ
+c	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÆÃå
+E
+java:S6212#"/Declare this local variable with "var" instead.(ï ¢
+E
+java:S6212$"/Declare this local variable with "var" instead.(é¯ß

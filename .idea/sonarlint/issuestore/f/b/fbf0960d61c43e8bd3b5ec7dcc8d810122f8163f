@@ -1,0 +1,117 @@
+
+^
+java:S3973 "GUse indentation to denote the code conditionally executed by this "if".(»Äèø
+L
+java:S1444"1Make this "public static listaNoduri" field final(ûÅíøÿÿÿÿ
+E
+java:S1444"/Make this "public static startNode" field final(¼ ®£
+C
+java:S1444"-Make this "public static endNode" field final(¼ ®£
+|
+java:S1192U"aDefine a constant instead of duplicating this literal "Va rugam sa alegeti doua noduri!" 3 times.(Õ±åøÿÿÿÿ
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¼íãüÿÿÿÿ
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å°ûùÿÿÿÿ
+C
+java:S16046"(Make this anonymous inner class a lambda(Çê™«úÿÿÿÿ
+C
+java:S1604b"(Make this anonymous inner class a lambda(„„†Îúÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(á úû
+r
+java:S1104"WMake listaNoduri a static final constant or non-public and provide accessors if needed.(ûÅíøÿÿÿÿ
+k
+java:S1104"UMake startNode a static final constant or non-public and provide accessors if needed.(¼ ®£
+i
+java:S1104"SMake endNode a static final constant or non-public and provide accessors if needed.(¼ ®£
+0
+java:S1220""Move this file to a named package.
+;
+java:S1659"%Declare "endNode" on a separate line.(¼ ®£
+;
+java:S1948"%Make "dij" transient or serializable.(àŒáØ
+?
+java:S1948"$Make "bf" transient or serializable.(°Ğûƒüÿÿÿÿ
+@
+java:S1948"%Make "spf" transient or serializable.(•¾¶Áøÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ûÅíøÿÿÿÿ
+{
+java:S1149F"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(â–ú
+{
+java:S1149r"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(â–ú
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(â–ú
+F
+java:S2440"+Remove this instantiation of "BellmanFord".(°Ğûƒüÿÿÿÿ
+M
+java:S2440"2Remove this instantiation of "ShortestPathFaster".(•¾¶Áøÿÿÿÿ
+=
+java:S3010"(Remove this assignment of "listaNoduri".(¬üìj
+A
+java:S3010#"&Remove this assignment of "startNode".(ÛÅ¡·ûÿÿÿÿ
+:
+java:S3010&"$Remove this assignment of "endNode".(“Ô×
+;
+java:S2386"&Make member "listaNoduri" "protected".(¬üìj
+Q
+java:S2696#"6Make the enclosing method "static" or remove this set.(ÛÅ¡·ûÿÿÿÿ
+L
+java:S2696&"6Make the enclosing method "static" or remove this set.(“Ô×
+c	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿî’ß
+J
+java:S62120"/Declare this local variable with "var" instead.(Ş©®Èøÿÿÿÿ
+{
+java:S1149F"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(â–ú
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(Ô©öÂ
+P
+java:S2209>"5Change this instance-reference to a static reference.(É€§äûÿÿÿÿ
+E
+java:S6212@"/Declare this local variable with "var" instead.(Èïşø
+P
+java:S2209D"5Change this instance-reference to a static reference.(Ğ€óŒùÿÿÿÿ
+Q
+java:S2696P"6Make the enclosing method "static" or remove this set.(«”“ªûÿÿÿÿ
+Q
+java:S2696Q"6Make the enclosing method "static" or remove this set.(ºùÃÒıÿÿÿÿ
+h	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñóòÙÿÿÿÿÿ
+J
+java:S6212\"/Declare this local variable with "var" instead.(Å¼íãüÿÿÿÿ
+{
+java:S1149r"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(â–ú
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(Ô©öÂ
+P
+java:S2209g"5Change this instance-reference to a static reference.(¶åè±ûÿÿÿÿ
+K
+java:S2209j"5Change this instance-reference to a static reference.(¹ÙˆÛ
+E
+java:S6212l"/Declare this local variable with "var" instead.(Èïşø
+K
+java:S2209p"5Change this instance-reference to a static reference.(ëØÈá
+Q
+java:S2696|"6Make the enclosing method "static" or remove this set.(«”“ªûÿÿÿÿ
+Q
+java:S2696}"6Make the enclosing method "static" or remove this set.(ºùÃÒıÿÿÿÿ
+i	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñƒŒ§ÿÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ñƒŒ§ÿÿÿÿÿ
+K
+java:S6212ˆ"/Declare this local variable with "var" instead.(Å°ûùÿÿÿÿ
+|
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(â–ú
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(Ô©öÂ
+L
+java:S2209“"5Change this instance-reference to a static reference.(Ê‡Ÿ¶
+L
+java:S2209–"5Change this instance-reference to a static reference.(ùÒÄ«
+F
+java:S6212˜"/Declare this local variable with "var" instead.(Èïşø
+Q
+java:S2209œ"5Change this instance-reference to a static reference.(ò§Àÿÿÿÿÿ
+R
+java:S2696ª"6Make the enclosing method "static" or remove this set.(«”“ªûÿÿÿÿ
+R
+java:S2696«"6Make the enclosing method "static" or remove this set.(ºùÃÒıÿÿÿÿ
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(³ıŸê
+F
+java:S6212»"/Declare this local variable with "var" instead.(âÿÓ‘

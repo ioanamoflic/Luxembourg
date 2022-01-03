@@ -1,0 +1,30 @@
+
+Q
+java:S1444"1Make this "public static predecessor" field final(ª‚Â´ÿÿÿÿÿ8ÉÊæŞ¼/
+B
+java:S1604"(Make this anonymous inner class a lambda(¨ÁÎn8ÏÊæŞ¼/
+w
+java:S1104"WMake predecessor a static final constant or non-public and provide accessors if needed.(ª‚Â´ÿÿÿÿÿ8ÏÊæŞ¼/
+7
+java:S1220""Move this file to a named package.8ĞÊæŞ¼/
+~
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ü†ğëûÿÿÿÿ8ÑÊæŞ¼/
+w
+java:S1450"WRemove the "distance" field and declare it as a local variable in the relevant methods.(óÒëŸıÿÿÿÿ8ÓÊæŞ¼/
+v
+java:S1450"VRemove the "visited" field and declare it as a local variable in the relevant methods.(ÿŠä¶ıÿÿÿÿ8ÔÊæŞ¼/
+…
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ª‚Â´ÿÿÿÿÿ8ÕÊæŞ¼/
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿ¼şÇ8ÖÊæŞ¼/
+…
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ªº¨§ûÿÿÿÿ8ÖÊæŞ¼/
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¼şÇ8ÚÊæŞ¼/
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿ¼şÇ8ÜÊæŞ¼/
+V
+java:S2696"6Make the enclosing method "static" or remove this set.(Ù•ÎËÿÿÿÿÿ8ŞÊæŞ¼/
+J
+java:S6212"/Declare this local variable with "var" instead.(Ñ‡‰î8àÊæŞ¼/
+O
+java:S6212"/Declare this local variable with "var" instead.( Íí³şÿÿÿÿ8çÊæŞ¼/

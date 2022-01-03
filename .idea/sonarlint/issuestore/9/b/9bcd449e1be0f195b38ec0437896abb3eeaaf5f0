@@ -1,0 +1,24 @@
+
+t
+java:S1104	"YMake listaLegaturi a static final constant or non-public and provide accessors if needed.(ª¼˜„øÿÿÿÿ
+n
+java:S1104
+"SMake costuri a static final constant or non-public and provide accessors if needed.(¤±Øüÿÿÿÿ
+h
+java:S1104"RMake culori a static final constant or non-public and provide accessors if needed.(úñÑ¡
+0
+java:S1220""Move this file to a named package.
+€
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ª¼˜„øÿÿÿÿ
+€
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤±Øüÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(úñÑ¡
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŒÍø
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œúíÜ
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æœ¨·
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ®ÅÎ
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ö¯ºûÿÿÿÿ
+W
+java:S11264"AReplace this if-then-else statement by a single return statement.(¡÷º

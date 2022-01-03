@@ -1,0 +1,51 @@
+
+N
+java:S27556"3Disable access to external entities in XML parsing.(Ò•ßçúÿÿÿÿ
+N
+java:S2755"3Disable access to external entities in XML parsing.(Ò•ßçúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰ïÕë
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(š…Èûúÿÿÿÿ
+€
+java:S11492"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ş¬üÌøÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ƒÔ³œşÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ğ¨ºî
+J
+java:S6212"/Declare this local variable with "var" instead.(Ò•ßçúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¥†ËÏúÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(§Ê’
+J
+java:S6212"/Declare this local variable with "var" instead.(¡Ùÿ©øÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¨·£•ıÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ñ—é½ùÿÿÿÿ
+=	java:S108,")Either remove or fill this block of code.(ñ‘ør
+A
+java:S1168/"+Return an empty collection instead of null.(¥¹ï
+E
+java:S62125"/Declare this local variable with "var" instead.(ğ¨ºî
+J
+java:S62126"/Declare this local variable with "var" instead.(Ò•ßçúÿÿÿÿ
+J
+java:S62127"/Declare this local variable with "var" instead.(¥†ËÏúÿÿÿÿ
+E
+java:S62129"/Declare this local variable with "var" instead.(«© É
+J
+java:S6212="/Declare this local variable with "var" instead.(¡Ùÿ©øÿÿÿÿ
+J
+java:S6212>"/Declare this local variable with "var" instead.(¨·£•ıÿÿÿÿ
+E
+java:S6212B"/Declare this local variable with "var" instead.(‚çä¨
+E
+java:S6212C"/Declare this local variable with "var" instead.(´Ÿ¤Ñ
+E
+java:S6212D"/Declare this local variable with "var" instead.(ç®É
+=	java:S108K")Either remove or fill this block of code.(ñ‘ør

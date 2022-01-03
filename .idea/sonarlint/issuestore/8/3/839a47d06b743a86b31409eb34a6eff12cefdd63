@@ -1,0 +1,35 @@
+
+?
+java:S1444"*Make this "public static latx" field final(äáª
+@
+java:S1444"*Make this "public static laty" field final(”—™œ
+@
+java:S1444"*Make this "public static lonx" field final(Ìøõ
+@
+java:S1444	"*Make this "public static lony" field final(ÈÔ…ö
+A
+java:S1444
+"+Make this "public static latyt" field final(½ˆá×
+F
+java:S1444"+Make this "public static lonyt" field final(§Ğ”Îùÿÿÿÿ
+e
+java:S1104"PMake latx a static final constant or non-public and provide accessors if needed.(äáª
+f
+java:S1104"PMake laty a static final constant or non-public and provide accessors if needed.(”—™œ
+f
+java:S1104"PMake lonx a static final constant or non-public and provide accessors if needed.(Ìøõ
+f
+java:S1104	"PMake lony a static final constant or non-public and provide accessors if needed.(ÈÔ…ö
+g
+java:S1104
+"QMake latyt a static final constant or non-public and provide accessors if needed.(½ˆá×
+l
+java:S1104"QMake lonyt a static final constant or non-public and provide accessors if needed.(§Ğ”Îùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹Áúš
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯éˆ²ûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ô¸ïÙùÿÿÿÿ
